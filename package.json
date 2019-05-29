@@ -1,0 +1,13 @@
+{
+  "name": "tsc-runtime-compile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "chokidar": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/chokidar": "^2.1.3"
+  }
+}
